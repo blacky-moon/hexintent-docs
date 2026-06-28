@@ -1,0 +1,16 @@
+site_name: Гайд по HexIntent by Blacky_moon
+theme:
+  name: material
+  language: ru
+  palette:
+    scheme: slate        # тёмная тема
+    primary: deep purple
+    accent: purple
+
+nav:
+  - Начало: index.md
+  - Основы:
+    - Предметы: general/items.md
+    - Паттерны: general/patterns.md
+  - Продвинутые:
+    - IDK: advanced/info.md
